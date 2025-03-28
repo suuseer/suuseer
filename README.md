@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [人生如天气](https://suus.me/202503272237/)
 - [SVG 签名动画制作：从设计到动画实现全流程解析](https://suus.me/202503192307/)
 - [[转载]一位父亲的灵魂叩问：我们究竟在为什么而养育孩子？](https://suus.me/202503041922/)
 - [暂停键与重启键之间](https://suus.me/202502282347/)
 - [哲学：重塑人类认知的底层算法](https://suus.me/202502241651/)
-- [深夜自救指南：给「睡不着星人」的科学安眠处方](https://suus.me/202502182123/)
 <!-- BLOG-POST-LIST:END -->
