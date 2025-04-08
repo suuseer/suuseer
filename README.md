@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [我们为什么要多读书？](https://suus.me/202504082128/)
 - [成年人的悲哀，就是活成了自己曾经最讨厌的样子](https://suus.me/202503282209/)
 - [人生如天气](https://suus.me/202503272237/)
 - [SVG 签名动画制作：从设计到动画实现全流程解析](https://suus.me/202503192307/)
 - [[转载]一位父亲的灵魂叩问：我们究竟在为什么而养育孩子？](https://suus.me/202503041922/)
-- [暂停键与重启键之间](https://suus.me/202502282347/)
 <!-- BLOG-POST-LIST:END -->
