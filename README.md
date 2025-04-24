@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [如何在 HUGO 中打造更友好的 RSS 体验？](https://suus.me/202504241923/)
 - [理性看待戒烟：我的决心、挑战与可行之路](https://suus.me/202504112004/)
 - [我们为什么要多读书？](https://suus.me/202504082128/)
 - [成年人的悲哀，就是活成了自己曾经最讨厌的样子](https://suus.me/202503282209/)
 - [人生如天气](https://suus.me/202503272237/)
-- [SVG 签名动画制作：从设计到动画实现全流程解析](https://suus.me/202503192307/)
 <!-- BLOG-POST-LIST:END -->
