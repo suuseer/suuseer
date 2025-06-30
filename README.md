@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi, I'm Seer. Welcome to my blog, a nook of the internet where I write about my thoughts, ideas, and anything else I find interesting.
+
 <!--
 **suuseer/suuseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
